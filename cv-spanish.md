@@ -2,7 +2,7 @@
 
 **Desarrollador Full Stack** | Backend, Arquitectura & Automatización
 
-English?: Click here[github.com/tropikow/cv/blob/main/cv-english.md](https://github.com/tropikow/cv/blob/main/cv-english.md)
+English?:[click here](https://github.com/tropikow/cv/blob/main/cv-english.md)
 
 Desarrollador Full Stack con fuerte orientación a backend, arquitectura y automatización. Experiencia construyendo plataformas B2B y SaaS productivos desde el diseño hasta el despliegue, con capacidad para traducir necesidades de negocio en soluciones técnicas escalables.
 
